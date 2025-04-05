@@ -33,4 +33,4 @@ Confira o canal Agilizei no Youtube:
 3. [Seletores, do básico ao avançado com Cypress](https://www.youtube.com/watch?v=xugVkhXpEtc)
 4. [Cypress, o essencial em um mindmap](https://www.youtube.com/watch?v=utdYrFjs4Do)
 
-
+Revisado
